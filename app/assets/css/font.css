@@ -1,0 +1,57 @@
+
+
+@font-face {
+    font-family: 'Houschka-Rounded';
+    src: url('../fonts/Houschka-Rounded-Alt-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Extra-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Demi-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Houschka-Rounded';
+    src: 
+        url('../fonts/Houschka-Rounded-Alt-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 100;
+    font-style: normal;
+  }
+  

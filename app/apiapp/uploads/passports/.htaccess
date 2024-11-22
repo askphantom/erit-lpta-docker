@@ -1,0 +1,12 @@
+ErrorDocument 400 /ifet/404/400.shtml
+ErrorDocument 401 /ifet/404/401.shtml
+ErrorDocument 403 /ifet/404/403.shtml
+ErrorDocument 404 /ifet/404/404.shtml
+ErrorDocument 500 /ifet/404/500.shtml
+
+<Files *.php>
+Order allow,deny
+Deny from all
+</Files>
+
+ServerSignature Off
