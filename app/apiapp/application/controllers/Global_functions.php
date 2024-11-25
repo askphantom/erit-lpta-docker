@@ -92,7 +92,7 @@ class Global_functions extends CI_Controller
 		$this->smart_query_url = 'http://localhost:8080/';
 
 		// $this->app_upload_dir = 'https://ap.nigenius.com.ng/apv2/';
-		$this->app_upload_dir = 'http://eritlpta.test/apiapp/';
+		$this->app_upload_dir = 'http://eritlpta.test:8080/apiapp/';
 		$this->admin_backend_url = 'https://nigenius.com.ng/mcp/';
 	} // End __construct
 
