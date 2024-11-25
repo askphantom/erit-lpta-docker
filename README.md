@@ -12,6 +12,7 @@ add the line below to the file
 
 ``127.0.0.1:8080 eritlpta.test``
 
+
 **Step 2**
 
 Build the application by running the code 
@@ -21,6 +22,7 @@ Build the application by running the code
 Then run
 
 ``docker compose up -d``
+
 
 **Step 3**
 
@@ -34,6 +36,7 @@ Test the application on the browser, open a browser and enter the following urls
 
 See if the application login shows
 
+
 **Step 4**
 
 Copy the database file to docker
@@ -41,6 +44,7 @@ Copy the database file to docker
 Navigate to the location of the files downloaded and run the command below
 
 ``docker cp ./nigenius.sql erit-lpta-docker-mysql-1:/tmp/dump.sql``
+
 
 **Step 5**
 
