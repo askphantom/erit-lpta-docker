@@ -6,5 +6,5 @@ After downloading the repository, follow the following steps to complete the set
 
 copy the database file to docker
 
-``docker cp ./nigenius.sql erit-lpta-docker-mysql-1:/tmp/dump.sql
+``docker cp ./nigenius.sql erit-lpta-docker-mysql-1:/tmp/dump.sql``
 
