@@ -58,7 +58,12 @@ When in the mysql console, check the databases available
 
 ``show databases;``
 
-if you see the database *ci3db*, go ahead and run the database dump copied
+if you see the database *ci3db*, rgen use the database
+
+``use ci3db;``
+
+
+Then go ahead and run the database dump copied
 
 ``source /tmp/dump.sql``
 
